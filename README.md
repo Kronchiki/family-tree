@@ -1,5 +1,5 @@
-# Private family access
+# Protected family tree
 
-This repository contains a login shell and nonsecret publishable service configuration. The encrypted family tree is retrieved from private storage only after approved-account authentication. No family records, user list, passwords, session tokens or administrator keys belong here.
+This repository contains only a locally encrypted website. Enter the separately shared password at the website to unlock it. No readable family records, research files, source data, passwords or decryption keys belong in this repository.
 
-The private encrypted viewer uses StatiCrypt 3.5.4 (MIT).
+Built with StatiCrypt 3.5.4 (MIT).
